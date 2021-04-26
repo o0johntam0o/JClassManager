@@ -2,7 +2,7 @@
 <settings>
   <option type="visible">
     <name>Hiển thị cửa sổ chương trình</name>
-    <value>1</value>
+    <value>0</value>
   </option>
   <option type="online">
     <name>Hoạt động trực tuyến</name>
