@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<settings>
+  <option type="visible">
+    <name>Hiển thị cửa sổ chương trình</name>
+    <value>1</value>
+  </option>
+  <option type="online">
+    <name>Hoạt động trực tuyến</name>
+    <value>1</value>
+    <url>https://pastebin.com/raw/4LmA5pew</url>
+  </option>
+  <option type="idle">
+    <name>Thời gian lặp lại</name>
+    <value>20000</value>
+  </option>
+  <option type="background">
+    <name>Đặt lại hình nền</name>
+    <value>0</value>
+    <url>C:\Users\ADMIN\Documents\Visual Studio 2013\Projects\Snipets\Installation\bin\Debug\Misc\Wallpaper.jpg</url>
+  </option>
+  <option type="clean">
+    <name>Dọn dẹp tệp rác</name>
+    <value>0</value>
+    <system>1</system>
+    <recycle>1</recycle>
+    <excepts path="C:\">
+      <item>$Recycle.Bin</item>
+      <item>$WINDOWS.~BT</item>
+      <item>$Windows.~WS</item>
+      <item>ProgramData</item>
+      <item>Users</item>
+      <item>Windows</item>
+      <item>Recovery</item>
+      <item>PerfLogs</item>
+      <item>hiberfil.sys</item>
+      <item>pagefile.sys</item>
+      <item>swapfile.sys</item>
+      <item>boot.ini</item>
+      <item>Documents and Settings</item>
+      <item>Program Files</item>
+      <item>Program Files (x86)</item>
+      <item>System Volume Information</item>
+      <item>Windows.old</item>
+      <item>MSOCache</item>
+      <item>Intel</item>
+      <item>FPC</item>
+      <item>Olltwit</item>
+    </excepts>
+    <excepts path="D:\">
+      <item>$RECYCLE.BIN</item>
+      <item>System Volume Information</item>
+      <item>MSOCache</item>
+      <item>DATA</item>
+      <item>o0johntam0o</item>
+    </excepts>
+    <excepts path="%UserProfile%\Documents\">
+      <item>desktop.ini</item>
+      <item>My Music</item>
+      <item>My Pictures</item>
+      <item>My Videos</item>
+    </excepts>
+    <excepts path="%UserProfile%\Desktop\">
+      <item>desktop.ini</item>
+    </excepts>
+    <excepts path="%UserProfile%\Downloads\">
+      <item>desktop.ini</item>
+    </excepts>
+    <excepts path="%UserProfile%\Pictures\">
+      <item>desktop.ini</item>
+    </excepts>
+    <excepts path="%UserProfile%\Music\">
+      <item>desktop.ini</item>
+    </excepts>
+    <excepts path="%UserProfile%\Videos\">
+      <item>desktop.ini</item>
+    </excepts>
+    <excepts path="%UserProfile%\3D Objects\">
+      <item>desktop.ini</item>
+    </excepts>
+    <excepts path="%UserProfile%\AppData\Roaming\Microsoft\Windows\Network Shortcuts\">
+      <item>desktop.ini</item>
+    </excepts>
+    <excepts path="%UserProfile%\AppData\Roaming\Microsoft\Windows\Recent\AutomaticDestinations\">
+      <item>desktop.ini</item>
+    </excepts>
+    <excepts path="%UserProfile%\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned\TaskBar\">
+      <item>desktop.ini</item>
+    </excepts>
+  </option>
+  <option type="browser">
+    <name>Chặn trình duyệt web</name>
+    <value>0</value>
+  </option>
+  <option type="censor">
+    <name>Chặn mở nội dung cấm</name>
+    <value>1</value>
+    <keywords mode="process">
+      <item>iexplore</item>
+      <item>MicrosoftEdge</item>
+      <item>browser</item>
+      <item>chrome</item>
+      <item>msedge</item>
+      <item>opera</item>
+      <item>avant</item>
+      <item>chromium</item>
+      <item>safari</item>
+      <item>ucweb</item>
+      <item>tor</item>
+      <item>firefox</item>
+    </keywords>
+    <keywords mode="title">
+      <item>porn</item>
+      <item>sex</item>
+      <item>adult</item>
+      <item>horror</item>
+      <item>phim ma</item>
+    </keywords>
+  </option>
+</settings>
